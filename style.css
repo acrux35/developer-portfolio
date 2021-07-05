@@ -1,5 +1,6 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
 h1{
-    background-color: cornflowerblue;
-    color: darkred;
-    text-align: center;
+    font-size: 50px;
 }
