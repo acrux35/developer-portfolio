@@ -36,3 +36,16 @@ h1 {
   background-repeat: no-repeat;
   background-position: right;
 }
+.design {
+  padding: 10px 20px;
+}
+.title {
+  color: rgb(248, 169, 23);
+}
+.details {
+  color: rgb(1, 1, 138);
+}
+.last-section {
+  background-image: url(images/exp-bg.png);
+  background-repeat: no-repeat;
+}
